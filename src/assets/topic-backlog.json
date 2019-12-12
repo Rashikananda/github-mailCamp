@@ -1,0 +1,23 @@
+{
+  "arrivalRateUnit": "seconds",
+  "topic": "sales-banana",
+  "samples": [
+    {
+      "timeStamp": "26-03-2019 12:36:59",
+
+      "arrivalRate": 4
+    },
+
+    {
+      "timeStamp": "26-03-2019 12:37:59",
+
+      "arrivalRate": 6
+    },
+
+    {
+      "timeStamp": "26-03-2019 12:38:59",
+
+      "arrivalRate": 2
+    }
+  ]
+}

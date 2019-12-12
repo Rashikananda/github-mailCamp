@@ -1,0 +1,20 @@
+[
+  {
+    "consumerId": 12,
+    "consumerGroup": "c1",
+    "consumerName": "sales-report",
+    "topics": 12
+  },
+  {
+    "consumerId": 13,
+    "consumerGroup": "c1",
+    "consumerName": "sales-another-report",
+    "topics": 11
+  },
+  {
+    "consumerId": 14,
+    "consumerGroup": "c2",
+    "consumerName": "sales-mega-report",
+    "topics": 11
+  }
+]

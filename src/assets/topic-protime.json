@@ -1,0 +1,23 @@
+{
+  "arrivalRateUnit": "seconds",
+  "topic": "topic-apple",
+  "samples": [
+    {
+      "timeStamp": "26-03-2019 12:36:59",
+
+      "arrivalRate": 12
+    },
+
+    {
+      "timeStamp": "26-03-2019 12:37:59",
+
+      "arrivalRate": 22
+    },
+
+    {
+      "timeStamp": "26-03-2019 12:38:59",
+
+      "arrivalRate": 17
+    }
+  ]
+}

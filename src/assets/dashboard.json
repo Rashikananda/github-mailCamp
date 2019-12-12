@@ -1,0 +1,6 @@
+{
+  "broker": 3,
+  "consumers": 12,
+  "topics": 14,
+  "totalMessages": 12222
+}
